@@ -1,0 +1,31 @@
+.producto-card{
+    height: 100%;
+    text-align: center;
+    border: 0;
+    border-radius: 0.75rem;
+    box-shadow: 0 0.5rem 1.5rem rgb(0 0 0 / 10%);
+    overflow: hidden;
+}
+
+.producto-imagen-contenedor{
+    height: 260px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+    overflow: hidden;
+}
+
+.producto-imagen{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    object-position: center;
+}
+
+.producto-card .card-body{
+    padding: 1rem 1rem 1.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "nombre": "Zapatillas",
+        "imagen": "https://www.16hrs.cl/179819/zapatilla-mujer.jpg",
+        "precio": 49000
+    },
+    {
+        "id":2,
+        "nombre": "Polera",
+        "imagen": "https://www.thedistrictoffans.com/cdn/shop/files/05C9F84B-AA32-47EF-B67D-4EA7A06D3B23.png?v=1743223532&width=640",
+        "precio": 10990
+    },
+    {
+        "id":3,
+        "nombre": "Poleron",
+        "imagen": "https://asesoratennis.cl/cdn/shop/files/poleron-deportivo-wilson-verde-oscuro_0e042c16-44a6-4cbf-9c05-07396dbf9cda.jpg?v=1783358963&width=640",
+        "precio": 24990
+    } ,
+    {
+        "id":4,
+        "nombre": "Polera Infantil",
+        "imagen": "https://www.thedistrictoffans.com/cdn/shop/files/05C9F84B-AA32-47EF-B67D-4EA7A06D3B23.png?v=1743223532&width=640",
+        "precio": 10990
+    }
+]
